@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foci eredmények</string>
+    <string name="main_button_databy">Adatok forrása football-data</string>
+    <string name="main_add_title">Válassz egy bajnokságot</string>
+    <string name="main_add_message">A bajnokság</string>
+    <string name="main_about_title">Névjegy</string>
+    <string name="main_about_text">Appot készítette Csuvi és Donát</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Mégse</string>
+    <string name="notification_check_title">Bajnokság eredményei</string>
+    <string name="notification_check_test">8 óra telt el az utolsó frissítés óta</string>
+</resources>

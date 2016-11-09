@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Football results</string>
+    <string name="main_button_databy">data provided by football-data</string>
+    <string name="main_add_title">Choose a championship</string>
+    <string name="main_add_message">Symbol code</string>
+    <string name="main_about_title">About</string>
+    <string name="main_about_text">App created by Csuvi and Donat</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="notification_check_title">Campionship results</string>
+    <string name="notification_check_test">8 hours elapsed after last check</string>
+
+</resources>

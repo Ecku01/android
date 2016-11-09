@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C62828</color>
+    <color name="colorPrimaryDark">#F44336</color>
+    <color name="colorAccent">#D50000</color>
+    <color name="ColorZebra1">#DCE775</color>
+    <color name="ColorZebra2">#AFB42B</color>
+    <color name="ColorZebraFront">#EF6C00</color>
+    <color name="ColorZebraButton1">#795548</color>
+    <color name="ColorZebraButton2">#212121</color>
+</resources>
