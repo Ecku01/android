@@ -61,7 +61,7 @@ public class SymbolAdapter extends ArrayAdapter<DSymbol>{
         show.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mSymbolAdapterListener.showClubId(); // nem fejeztem be
+                mSymbolAdapterListener.showClubId(); // nem fejeztem bess
             }
         });
                                 }
