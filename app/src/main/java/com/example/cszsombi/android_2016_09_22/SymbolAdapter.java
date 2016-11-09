@@ -65,7 +65,7 @@ public class SymbolAdapter extends ArrayAdapter<DSymbol>{
             }
         });
                                 }
-        Button delete=(Button).view.findViewById(R.id.main_listitem_delete);
+        Button delete=(Button).view.findViewById(R.id.main_listitem_delete); //wet
             delete.setTag(((Integer)position));
             delete.setOnClickListener(new View.OnClickListener() {
                 @Override
